@@ -1,4 +1,4 @@
-.![Black Technology LinkedIn Banner](https://github.com/Ramzizarg/Ramzizarg/assets/118612825/5c293b3e-f1a3-4e84-b6dc-d9c77648b26d)
+![Black Technology LinkedIn Banner](https://github.com/Ramzizarg/Ramzizarg/assets/118612825/5c293b3e-f1a3-4e84-b6dc-d9c77648b26d)
 
 # 💫 About Me:
 I am a 24-year-old aspiring developer driven by a profound passion for technology and software development. Equipped with a robust understanding of programming languages including PHP, Spring Boot, Symfony, Angular,Net and JavaScript, I have meticulously refined my skills to craft dynamic and highly efficient web applications. Beyond technical proficiency, I bring a wealth of experience in Agile methodologies, emphasizing collaborative teamwork, adaptability, and a results-oriented mindset. Eager to immerse myself in innovative projects, I eagerly embrace new challenges within the dynamic landscape of software development.<br>
