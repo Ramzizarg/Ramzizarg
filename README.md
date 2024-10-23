@@ -1,8 +1,12 @@
+<img  src="https://github.com/user-attachments/assets/1209913c-e91d-4928-bf6b-549ae9fed066" >
+
 <h1 align="center">Hi 👋, I'm Ramzi</h1>
 <h3 align="center">Future Engineer | Passionate About Problem-Solving, Innovation, and Technology | Building the Future One Line of Code at a Time</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramzizarg&label=Profile%20views&color=0e75b6&style=flat" alt="ramzizarg" /> </p>
 <img align="right" alt=Coding" width="400" src="https://github.com/user-attachments/assets/5aba1217-f85a-4d7a-9beb-2a905355060d" >
+
+
 
 
 - 🌱 I’m currently learning **DevOps**
