@@ -1,4 +1,4 @@
-<img  src="https://github.com/user-attachments/assets/1209913c-e91d-4928-bf6b-549ae9fed066" >
+<img src="https://github.com/user-attachments/assets/1209913c-e91d-4928-bf6b-549ae9fed066" width="1584" height="396" alt="Description of the image">
 
 <h1 align="center">Hi 👋, I'm Ramzi</h1>
 <h3 align="center">Future Engineer | Passionate About Problem-Solving, Innovation, and Technology | Building the Future One Line of Code at a Time</h3>
